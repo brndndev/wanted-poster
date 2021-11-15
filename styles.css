@@ -1,0 +1,68 @@
+@import url(file:///Users/brandonprice/Documents/Betamore/wanted-poster/index.html rel="stylesheet");
+
+.poster {
+    align: center;
+    background-image: url(https://i.imgur.com/Y9Tiq8a.jpg);
+    padding: 20px;
+    width: 488px;
+    height: 640px;
+    box-shadow: 5px 5px 15px 5px #000000;
+
+}
+
+#mugshot {
+    margin: 10px;
+    width: 300px;
+    height: 325px;
+    border: 2px solid #291200;
+
+}
+
+h1 {
+    font-family: Ewert;
+    color: #291200;
+    font-size: 44pt;
+    font-weight: normal;
+    margin: none;
+
+}
+
+subheading {
+    font-family: Ultra;
+    color: #291200;
+    margin: auto;
+    font-size: 35pt;
+    font-weight: bold;
+}
+
+name {
+    font-family: Ultra;
+    color: #291200;
+    margin: auto;
+    font-size: 32pt;
+    font-weight: normal;
+}
+
+description {
+    font-family: Ultra;
+    color: #291200;
+    margin: auto;
+    font-size: 28pt;
+    font-weight: normal;
+}
+
+h2 {
+    font-family: Ultra;
+    color: #291200;
+    margin: auto;
+    font-size: 28pt;
+    font-weight: normal;
+}
+
+#price {
+    font-family: Ultra;
+    color: #291200;
+    margin: auto;
+    font-size: 35pt;
+    font-weight: bold;
+}
